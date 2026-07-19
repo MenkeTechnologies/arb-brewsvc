@@ -1,0 +1,5 @@
+# brewsvc — Homebrew-managed background services and their state, self-sourced from `brew services list`.
+! brew services list every 10s
+table .brewsvc
+source .brewsvc { in }
+grid .brewsvc -row 0 -col 0

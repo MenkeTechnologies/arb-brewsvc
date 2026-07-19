@@ -1,0 +1,5 @@
+[package]
+name = "brewsvc"
+version = "0.1.0"
+license = "MIT"
+description = "Homebrew-managed background services and their state"
